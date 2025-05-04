@@ -1,0 +1,6 @@
+[project]
+name = "titanicsurvival"
+version = "0.1.0"
+description = "This is a small learning project on using the packages in Python."
+requires-python = ">=3.13"
+dependencies = []
